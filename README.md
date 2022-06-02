@@ -2,9 +2,9 @@
 show the process of the A star program
 
 
-python main.py
+# python main.py
 It will show you a Graphical interface based on pygame. The program will not succcess without pygame.
 
-packge.bat
+# packge.bat
 It will package the program into an executable file.(./dist/main.exe)
 
