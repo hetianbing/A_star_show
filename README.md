@@ -1,5 +1,6 @@
 # A_star_show
 show the process of the A star program
+显示A星算法内部运行过程
 
 ```bash
 python main.py
